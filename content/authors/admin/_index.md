@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Chen Qi
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Chen
+last_name: Qi
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,101 +23,108 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Senior ME Student 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Chongqing University / University of Cincinnati 
+    url: https://www.cqu.edu.cn/
+
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:2690847293@qq.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+  # - icon: brands/x
+  #   url: https://twitter.com/AlexAIResearch
+  # - icon: brands/github
+  #   url: https://github.com/alexjohnsonai
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/in/alexjohnsonai/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/citations?user=alexjohnson
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/0000-0002-1825-0097
 
 interests:
   - Large Language Models
   - Computer Vision
   - Reinforcement Learning
   - AI Ethics
+  - Robotics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: Mechanical Engineering
+    institution: Chongqing University / University of Cincinnati 
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2022-09-01
+    date_end: 2027-06-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Beginning of my dream.
+      GPA: 3.4/4.0
+      
     button:
       text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      #url: 'https://example.com/thesis.pdf'
+  - area: Mechanical Engineering
+    institution: University of Cincinnati 
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2012-09-01
+    date_end: 2027-05-31
     summary: |
-      GPA: 4.0/4.0
-
+      World crossroads .
       Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
+  # - area: BS Computer Science
+  #   institution: MIT
+  #   icon: ""
+  #   date_start: 2009-09-01
+  #   date_end: 2013-05-31
+  #   summary: |
+  #     GPA: 3.9/4.0
 
-      Minored in Mathematics. President of AI Club.
+  #     Minored in Mathematics. President of AI Club.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Internship as Test Engineer
+    company_name: Beijing Siemens Siebolus Electronics Co., LTD, Beijing China
+    #company_url: 'https://ai.meta.com/'
     icon: ''
-    date_start: 2020-01-01
-    date_end: ''
+    date_start: 2024-09-01
+    date_end: 2025-08-31
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Designed and updated critical component models using SolidWorks to meet product and production requirements. 
+
+      Created operational simulations and animations using Blender for visual troubleshooting, developed modification plans based on simulation analysis. 
+
+      Collaborated on replacing manual sorting processes with automated solutions, led part design, 3D printing, and solution optimization for automation projects. 
+  - position: Research Assistant 
+    company_name: Electric Field-Induced Inkjet 3D Printer, Prof. Yi Hao at Chongqing University 
+    #company_url: 'https://openai.com/'
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2024-01-01
+    date_end: 2024-04-30
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Designed and improved the outlet shape of a printer nozzle using SolidWorks, and simulated the working process of the medium inside the nozzle via finite element analysis (FEA) with ANSYS. 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: Matlab
         description: ''
         percent: 85
-        icon: cloud
+        icon: code-bracket
+      - name: SolidWorks
+        description: ''
+        percent: 85
+        icon: chart-bar
+      # - name: Cloud Computing (AWS/GCP)
+      #   description: ''
+      #   percent: 85
+      #   icon: cloud
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -136,37 +143,37 @@ skills:
         icon: book-open
 
 languages:
-  - name: English
+  - name: Chinese
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: English
+    percent: 70
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+  - title: Meritorious Winner
+    #url: https://neurips.cc/
+    date: '2025-05-01'
+    awarder: Mathematical Contest in Modeling (MCM)
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+      M Prize, top 6%-10%
+  - title: Dean's List
+    #url: https://www.nsf.gov/
+    date: '2025-06-15'
+    awarder: University of Cincinnati
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+      GPA > 3.6
+  - title: Excellent Completion
+    #url: https://www.stanford.edu/
+    date: '2024-12-30'
+    awarder: Chongqing University
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      18th National College Student Innovation Training Program (Project: Innovative Design and Research on On-Orbit Disposal Solutions for Non-Cooperative Space Targets), 202
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Qi Chen is a mechanical engineering student at the Chongqing University–University of Cincinnati Joint Co-op Institute, specializing in mechanical design and automation. His work spans robotics, 3D printing, and on-orbit engineering systems, with publications in IEEE conferences and a national invention patent. Qi has won multiple awards in mathematical modeling and robotics competitions, including the RoboCup China Open UAV Challenge. Passionate about innovation and intelligent design, he combines engineering simulation, data analysis, and AI tools to solve complex real-world problems.
