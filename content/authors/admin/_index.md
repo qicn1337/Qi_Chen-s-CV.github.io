@@ -27,8 +27,10 @@ role: Senior ME Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Chongqing University / University of Cincinnati 
+  - name: Chongqing University  
     url: https://www.cqu.edu.cn/
+  - name: University of Cincinnati  
+    url: https://www.uc.edu/
 
 
 # Social network links
