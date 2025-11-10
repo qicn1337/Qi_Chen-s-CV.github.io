@@ -42,7 +42,7 @@ profiles:
   # - icon: brands/x
   #   url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-     url: https://github.com/qicn1337
+    url: https://github.com/qicn1337
   # - icon: brands/linkedin
   #   url: https://www.linkedin.com/in/alexjohnsonai/
   # - icon: academicons/google-scholar
@@ -51,7 +51,7 @@ profiles:
   #   url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
+  - Mechanical Engineering
   - Computer Vision
   - Reinforcement Learning
   - AI Ethics
@@ -67,8 +67,8 @@ education:
       Beginning of my dream.
       GPA: 3.4/4.0
       
-    button:
-      text: 'Read Thesis'
+    #button:
+      #text: 'Read Thesis'
       #url: 'https://example.com/thesis.pdf'
   - area: Mechanical Engineering
     institution: University of Cincinnati 
@@ -76,8 +76,9 @@ education:
     date_start: 2012-09-01
     date_end: 2027-05-31
     summary: |
-      World crossroads .
-      Specialized in machine learning and robotics.
+      Joint Coop Institude .
+      GPA: 3.6/4.0
+      Specialized in mechanical engineering and robotics.
   # - area: BS Computer Science
   #   institution: MIT
   #   icon: ""
@@ -91,7 +92,7 @@ education:
 work:
   - position: Internship as Test Engineer
     company_name: Beijing Siemens Siebolus Electronics Co., LTD, Beijing China
-    #company_url: 'https://ai.meta.com/'
+    company_url: 'https://www.siemens.com/cn/zh.html'
     icon: ''
     date_start: 2024-09-01
     date_end: 2025-08-31
@@ -162,13 +163,13 @@ awards:
     icon: hero/trophy
     summary: |
       M Prize, top 6%-10%
-  - title: Dean's List
-    #url: https://www.nsf.gov/
-    date: '2025-06-15'
-    awarder: University of Cincinnati
+  - title: National 3rd Prize in the RoboCup China Open
+    url: http://robocup.drct-caa.org.cn/index.php/race?catid=2
+    date: '2024-06-15'
+    awarder: Chinese Association of Automation
     icon: hero/currency-dollar
     summary: |
-      GPA > 3.6
+      UAV Challenge at the China Robot Competition, 2024 
   - title: Excellent Completion
     #url: https://www.stanford.edu/
     date: '2024-12-30'
