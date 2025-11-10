@@ -43,8 +43,8 @@ profiles:
   #   url: https://twitter.com/AlexAIResearch
   - icon: brands/github
     url: https://github.com/qicn1337
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/in/alexjohnsonai/
+  - icon: brands/weixin
+    url: https://u.wechat.com/EA53mtsQXE1sq3vWL1vy3YY
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/citations?user=alexjohnson
   # - icon: academicons/orcid
@@ -59,7 +59,7 @@ interests:
 
 education:
   - area: Mechanical Engineering
-    institution: Chongqing University / University of Cincinnati 
+    institution: Chongqing University 
     icon: ""
     date_start: 2022-09-01
     date_end: 2027-06-30
