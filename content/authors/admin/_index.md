@@ -176,7 +176,7 @@ awards:
     awarder: Chongqing University
     icon: hero/academic-cap
     summary: |
-      18th National College Student Innovation Training Program (Project: Innovative Design and Research on On-Orbit Disposal Solutions for Non-Cooperative Space Targets), 202
+      18th National College Student Innovation Training Program (Project: Innovative Design and Research on On-Orbit Disposal Solutions for Non-Cooperative Space Targets), 2024
 ---
 
 Qi Chen is a mechanical engineering student at the Chongqing University–University of Cincinnati Joint Co-op Institute, specializing in mechanical design and automation. His work spans robotics, 3D printing, and on-orbit engineering systems, with publications in IEEE conferences and a national invention patent. 
