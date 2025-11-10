@@ -1,11 +1,11 @@
 ---
-linkTitle: Hugo Blox
-title: Learn Hugo Blox in 10 minutes!
-date: 2025-09-24
+linkTitle: Heat Transfer
+title: Heat Transfer
+date: 2025-09-01
 type: docs
 
 tags:
-  - Hugo Blox
+  - ME
   - Course
 
 content_meta:
@@ -14,15 +14,14 @@ content_meta:
   prerequisites: ['Markdown']
   trending: false
 ---
-
-👋 Welcome to your shiny new site. Ready to learn more?
+Learning heat conduction , radiation and convection.
 
 <!--more-->
 
-This course provides a brief introduction to creating and editing your site with Hugo Blox. For full documentation, refer to the [Hugo Blox Documentation](https://docs.hugoblox.com/).
+
 
 ## Next
 
-{{< cards >}}
+<!-- {{< cards >}}
   {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="Setup your new site in just 5 minutes!" >}}
-{{< /cards >}}
+{{< /cards >}} -->
