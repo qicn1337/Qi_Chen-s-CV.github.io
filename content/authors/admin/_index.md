@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chen Qi
+title: Qi Chen
 
 # Name pronunciation (optional)
 name_pronunciation: ''
