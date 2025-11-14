@@ -18,7 +18,7 @@ sections:
       button:
         text: Download CV
         #url: https://github.com/qicn1337/Document/raw/main/%E7%A5%81%20%E7%90%9B%20QiChen%20Resumepdf.pdf
-        url:/workspaces/Qi_Chen-s-CV.github.io/static/uploads/QiChen Resumepdf_2.pdf
+        url:https://github.com/qicn1337/Qi_Chen-s-CV.github.io/raw/main/static/uploads/QiChen%20Resumepdf_2.pdf
       headings:
         about: ''
         education: ''
