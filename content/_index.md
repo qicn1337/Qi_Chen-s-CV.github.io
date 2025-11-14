@@ -17,8 +17,8 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
+        url: uploads/QiChen%20Resumepdf_2.pdf
         #url: https://github.com/qicn1337/Document/raw/main/%E7%A5%81%20%E7%90%9B%20QiChen%20Resumepdf.pdf
-        url:https://github.com/qicn1337/Qi_Chen-s-CV.github.io/raw/main/static/uploads/QiChen%20Resumepdf_2.pdf
       headings:
         about: ''
         education: ''
